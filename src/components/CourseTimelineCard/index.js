@@ -10,7 +10,7 @@ const CourseTimelineCard = props => {
       <div className="title-container">
         <h1 className="title">{data.courseTitle}</h1>
         <div className="duration-container">
-          <AiFillClockCircle />
+          <AiFillClockCircle className="duration-logo" />
           <p className="duration">{data.duration}</p>
         </div>
       </div>

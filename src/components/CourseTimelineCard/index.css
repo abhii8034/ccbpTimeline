@@ -30,6 +30,11 @@
   margin-left: 5px;
 }
 
+.duration-logo {
+  width: 20px;
+  height: 20px;
+}
+
 .description {
   font-size: 18px;
 }

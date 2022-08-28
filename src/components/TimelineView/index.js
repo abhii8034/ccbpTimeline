@@ -11,7 +11,7 @@ const TimelineView = props => {
   return (
     <div className="app-container">
       <h1 className="timeline-heading">
-        MY JOURNEY OF <br /> <span>CCBP 4.0</span>
+        MY JOURNEY OF <br /> CCBP 4.0
       </h1>
       <div className="chrono-container">
         <Chrono

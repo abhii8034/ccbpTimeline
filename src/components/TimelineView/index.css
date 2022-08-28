@@ -7,18 +7,12 @@
 }
 
 .timeline-heading {
-  color: #1e293b;
+  color: #2b237c;
   font-family: 'Roboto';
   font-size: 24px;
   font-weight: 600;
-}
-
-span {
-  color: #2b237c;
-  font-family: 'Roboto';
-  font-size: 28px;
-  font-weight: bolder;
-  line-height: 3;
+  text-align: center;
+  line-height: 2;
 }
 
 .chrono-container {
